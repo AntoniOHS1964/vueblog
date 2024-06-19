@@ -1,4 +1,5 @@
 <script>
+// Adicionando um comentário aleatório
     export default {
         props: ({
             titulo: {
